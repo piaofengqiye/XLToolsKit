@@ -1,0 +1,6 @@
+framework module XLToolsKit {
+  umbrella header "XLToolsKit.h"
+
+  export *
+  module * { export * }
+}
